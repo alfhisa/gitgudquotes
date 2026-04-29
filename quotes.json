@@ -1,9 +1,4 @@
 [
-	{
-		"name": "Owi",
-		"class": "LE01",
-		"quote": "we wok de tok not anle tok de tok"
-	},
   {
     "name": "Farrell Axel Suwandi",
     "class": "LE01",
@@ -65,8 +60,22 @@
   "quote": "Talk is cheap. Show me the code."
   },
   {
-    "name": "Wowok",
+    "name": "济南",
     "class": "LB88",
-    "quote": "Sawit adalah Miracle plant, saya ada rencana Papua ditanami sawit."
+    "quote": "如果你不能读我写的汉字我写的，你不可以读"
   }
+  "name": "niel",
+  "class": "LB07",
+  "quote": "never bite the hands that fingers you or whatever they saying"
+  },
+  {
+  "name": "jason",
+  "class": "LB07",
+  "quote": "son son son son son son son son son son son son"
+  },
+  {
+  "name": "din",
+  "class": "LB07",
+  "quote": "kata mama gaboleh judol"
+  } 
 ]
