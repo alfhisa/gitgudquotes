@@ -1,9 +1,9 @@
 [
-	{
-		"name": "Owi",
-		"class": "LE01",
-		"quote": "we wok de tok not anle tok de tok"
-	},
+  {
+    "name": "Owi",
+    "class": "LE01",
+    "quote": "we wok de tok not anle tok de tok"
+  },
   {
     "name": "Farrell Axel Suwandi",
     "class": "LE01",
@@ -24,7 +24,7 @@
     "class": "LE01",
     "quote": "feat: add random quote"
   },
-	{
+  {
     "name": "Stanislaus Alva Jufinto",
     "class": "LF07",
     "quote": "A clear commit message helps your future self."
@@ -44,11 +44,11 @@
     "class": "LE01",
     "quote": "Be yourself and never surrender."
   },
-    {
+  {
     "name": "Yosuke",
     "class": "LE07",
     "quote": "A journey of a thousand miles begins with a single step."
-	},
+  },
   {
     "name": "Arief Arya Menon",
     "class": "LE01",
@@ -57,16 +57,21 @@
   {
     "name": "John",
     "class": "LE01",
-    "quote": "if debugging is the process of removing software bugs, then programming must be the process of putting them in." 
+    "quote": "if debugging is the process of removing software bugs, then programming must be the process of putting them in."
   },
   {
-  "name": "Linus Torvalds",
-  "class": "LE01",
-  "quote": "Talk is cheap. Show me the code."
+    "name": "Linus Torvalds",
+    "class": "LE01",
+    "quote": "Talk is cheap. Show me the code."
   },
   {
-  "name": "niel",
-  "class": "LB07",
-  "quote": "never bite the hands that fingers you or whatever they saying"
+    "name": "niel",
+    "class": "LB07",
+    "quote": "never bite the hands that fingers you or whatever they saying"
+  },
+  {
+    "name": "wiwi v2",
+    "class": "LB08",
+    "quote": "Dihina hina saya diam, dimaki maki saya juga diam, tapi kali ini saya akan lawan!"
   }
 ]
