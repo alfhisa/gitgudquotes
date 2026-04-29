@@ -1,9 +1,4 @@
 [
-	{
-		"name": "Owi",
-		"class": "LE01",
-		"quote": "we wok de tok not anle tok de tok"
-	},
   {
     "name": "Farrell Axel Suwandi",
     "class": "LE01",
@@ -24,7 +19,7 @@
     "class": "LE01",
     "quote": "feat: add random quote"
   },
-	{
+  {
     "name": "Stanislaus Alva Jufinto",
     "class": "LF07",
     "quote": "A clear commit message helps your future self."
@@ -44,11 +39,11 @@
     "class": "LE01",
     "quote": "Be yourself and never surrender."
   },
-    {
+  {
     "name": "Yosuke",
     "class": "LE07",
     "quote": "A journey of a thousand miles begins with a single step."
-	},
+  },
   {
     "name": "Arief Arya Menon",
     "class": "LE01",
@@ -57,20 +52,51 @@
   {
     "name": "John",
     "class": "LE01",
-    "quote": "if debugging is the process of removing software bugs, then programming must be the process of putting them in." 
+    "quote": "if debugging is the process of removing software bugs, then programming must be the process of putting them in."
   },
   {
-  "name": "Linus Torvalds",
-  "class": "LE01",
-  "quote": "Talk is cheap. Show me the code."
+    "name": "Linus Torvalds",
+    "class": "LE01",
+    "quote": "Talk is cheap. Show me the code."
   },
   {
+    "name": "niel",
+    "class": "LB07",
+    "quote": "never bite the hands that fingers you or whatever they saying"
+  },
+  {
+    "name": "Chowko**",
+    "class": "LG08",
+    "quote": "When insulted, I also remain silent, when insulted I also remain silent, but this time I will fight back!"
+  },
+{
+    "name": "济南",
+    "class": "LB88",
+    "quote": "如果你不能读我写的汉字我写的，你不可以读"
+  },
+	{
   "name": "niel",
   "class": "LB07",
   "quote": "never bite the hands that fingers you or whatever they saying"
   },
   {
-  "quote": "lebih main minta maaf daripada minta izin. IZIINNN",
-  "author": "Hai ganteng"
-}
+  "name": "Hai ganteng",
+  "class": "LB07",
+  "quote": "lebih main minta maaf daripada minta izin. IZIINNN"
+},
+  {
+    "name": "Annisa Putri Fadhilah",
+    "class": "LB07",
+    "quote": "If i wanted to kill my self, i'd climb ur ego and jump down to ur IQ"
+  },
+	{
+  "name": "jason",
+  "class": "LB07",
+  "quote": "son son son son son son son son son son son son"
+  },
+  {
+  "name": "din",
+  "class": "LB07",
+  "quote": "kata mama gaboleh judol"
+  } 
 ]
