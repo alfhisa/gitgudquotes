@@ -1,5 +1,10 @@
 [
   {
+    "name": "Mikail Giovanni",
+    "class": "LL01",
+    "quote": "O_O"
+  },
+  {
     "name": "Farrell Axel Suwandi",
     "class": "LE01",
     "quote": "Git gud or git rekt."
@@ -105,7 +110,28 @@
     "quote": "aku sudah tidak tertipu lagi dengan G + SHIFT + 1"
   },
   {
-  "quote": "To confuse your enemy, you must first confuse yourself",
-  "author": "Linus Torvalds"
+  "name": "Linus Torvalds",
+  "class": "LL01",
+  "quote": "To confuse your enemy, you must first confuse yourself"
+  },
+  {
+    "name": "Elbrt",
+    "class": "LL01",
+    "quote": "wsg"
+  },
+  {
+    "name": "Felix DOTA",
+    "class": "LL01",
+    "quote": "holy sh*t aku barusan ngeliat debu"
+  },
+  {
+    "name": "seren",
+    "class": "LL01",
+    "quote": "If coding is tiring and life is boring, just sleep."
+  },
+  {
+    "name": "Joe",
+    "class": "LL01",
+    "quote": "Mama"
   }
 ]
