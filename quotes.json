@@ -1,5 +1,10 @@
 [
   {
+    "name": "Mikail Giovanni",
+    "class": "LL01",
+    "quote": "O_O"
+  },
+  {
     "name": "Farrell Axel Suwandi",
     "class": "LE01",
     "quote": "Git gud or git rekt."
@@ -105,6 +110,11 @@
     "quote": "aku sudah tidak tertipu lagi dengan G + SHIFT + 1"
   },
   {
+  "name": "Linus Torvalds",
+  "class": "LL01",
+  "quote": "To confuse your enemy, you must first confuse yourself"
+  },
+  {
     "name": "Elbrt",
     "class": "LL01",
     "quote": "wsg"
@@ -123,5 +133,10 @@
     "name": "Kanzzzz",
     "class": "LL01",
     "quote": "Kicau kicau 67"
-  } 
+  },
+  {
+    "name": "Joe",
+    "class": "LL01",
+    "quote": "Mama"
+  }
 ]
